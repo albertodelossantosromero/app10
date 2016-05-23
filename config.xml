@@ -18,7 +18,7 @@
  <preference name="orientation" value="landscape" />
   
  <author href="https://build.phonegap.com" email ="support@phonegap.com">
- Alberto De Los Santos Romero</author>
+ Alberto De Los Santos Romero
  </author>
  
  <gap:plugin name ="org.apache.cordova.device" version="0.2.12"/>
